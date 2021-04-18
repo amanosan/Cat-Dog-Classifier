@@ -9,4 +9,5 @@ Run the make_data.py script for getting a smaller version of the dataset into ap
 
 <br>
 <br>
-##### NOTE: The notebook has been implemented on Google Colab, so you will have to edit the paths accordingly. 
+##### NOTE: 
+The notebook has been implemented on Google Colab, so you will have to edit the paths accordingly. 
